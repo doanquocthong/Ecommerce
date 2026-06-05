@@ -1,0 +1,15 @@
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.deps.json
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Application.pdb
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Domain.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\bin\Debug\net10.0\Ecommerce.Domain.pdb
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.AssemblyInfo.cs
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerc.C5F54E74.Up2Date
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\refint\Ecommerce.Application.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\Ecommerce.Application.pdb
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Application\obj\Debug\net10.0\ref\Ecommerce.Application.dll
