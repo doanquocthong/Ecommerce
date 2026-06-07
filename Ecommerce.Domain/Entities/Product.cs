@@ -8,7 +8,7 @@ public class Product : BaseEntity {
     public string Description {get; set;} = string.Empty;
     public decimal Price {get; set;}
     public int StockQuantity {get; set;}
-    public String ImageUrl {get; set;} = string.Empty;
+    public ICollection<ProductImage> Images {get; set;} = [];
     public String Slug {get; set;} = string.Empty;
     public StatusProduct Status {get; set;} = StatusProduct.InStock;
 

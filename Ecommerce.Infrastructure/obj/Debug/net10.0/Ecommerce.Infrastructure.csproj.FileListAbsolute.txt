@@ -17,3 +17,4 @@ C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Infrastructure\obj\Debug\
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.pdb
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.genruntimeconfig.cache
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net10.0\ref\Ecommerce.Infrastructure.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.Infrastructure\obj\Debug\net10.0\Ecommerce.Infrastructure.sourcelink.json

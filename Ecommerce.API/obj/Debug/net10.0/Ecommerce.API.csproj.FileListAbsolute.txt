@@ -129,3 +129,4 @@ C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.API\bin\Debug\net10.0\zh-
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thong\OneDrive\Máy tính\Ecommerce\Ecommerce.API\obj\Debug\net10.0\Ecommerce.API.sourcelink.json
